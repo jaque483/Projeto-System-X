@@ -1,0 +1,17 @@
+Ordem de Serviço
+
+Número da OS: 2
+Tipo: OS
+Situação: Entrega OK
+Equipamento: teste
+Defeito: teste
+Serviço: teste
+Técnico: teste
+Valor: 0.00
+
+_____________    _____________
+
+  VENDEDOR          CLIENTE
+
+-----------------------------------
+Data de Emissão: Wed Nov 06 09:14:49 BRT 2024

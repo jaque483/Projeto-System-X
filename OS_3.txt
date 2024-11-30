@@ -1,0 +1,18 @@
+Ordem de Serviço
+
+Número da OS: 3
+Nome do Cliente: teste
+Tipo: Orçamento
+Situação: Na bancada
+Equipamento: teste
+Defeito: teste
+Serviço: teste
+Técnico: teste
+Valor: 0.00
+
+_____________    _____________
+
+  VENDEDOR         CLIENTE
+
+-----------------------------------
+Data de Emissão: Wed Nov 06 13:37:30 BRT 2024

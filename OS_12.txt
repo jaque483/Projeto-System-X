@@ -1,0 +1,18 @@
+Ordem de Serviço
+
+Número da OS: 12
+Nome do Cliente: KLEIBER ADISON BARBOSA
+Tipo: OS
+Situação: Entrega OK
+Equipamento: PC
+Defeito: FONTE
+Serviço: TROCA DE FONTE
+Técnico: ANTONIA
+Valor: 540.00
+
+_____________    _____________
+
+  VENDEDOR         CLIENTE
+
+-----------------------------------
+Data de Emissão: Wed Nov 06 19:16:17 BRT 2024

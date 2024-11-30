@@ -1,0 +1,18 @@
+Ordem de Serviço
+
+Número da OS: 15
+Nome do Cliente: Ana Florentina
+Tipo: Orçamento
+Situação: Aguardando Aprovação
+Equipamento: PC Dell
+Defeito: Fonte
+Serviço: Troca de fonte
+Técnico: Divo
+Valor: 300.00
+
+_____________    _____________
+
+  VENDEDOR         CLIENTE
+
+-----------------------------------
+Data de Emissão: Mon Nov 11 19:42:51 BRT 2024
